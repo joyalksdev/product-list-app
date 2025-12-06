@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+body{
+  font-family: 'Poppins';
+}
+
+.logo {
+  font-family: "Dancing Script", cursive;
+}
+
+.nav-links {
+  font-family: "Poppins", sans-serif;
+}
+
+nav ul li a {
+  transition: 0.3 all ease-in-out;
+}
+footer {
+  font-family: 'Inter';
+}
+.card {
+  font-family: 'Inter';
+}
+
+.card p {
+  height: 3rem;
+}
+
+option {
+  border-radius: 12px;
+}
